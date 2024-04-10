@@ -6,7 +6,7 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/CLAWS/IRIS.unity
+    path: Assets/CLAWS/Box.unity
     guid: 64099e44043b09d43ac25dabe0a3face
   m_configObjects:
     com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: ea4c54a0b9602ea448f7291bc4a7151f, type: 2}
